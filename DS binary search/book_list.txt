@@ -1,0 +1,31 @@
+
+0. Advanced Physics
+1. Anatomy and Physiology
+2. Biology Essentials
+3. Calculus I
+4. Chemistry Basics
+5. Civil Engineering Principles
+6. Computer Networks
+7. Data Structures
+8. Discrete Mathematics
+9. Economics 101
+10.Environmental Science
+11.Financial Accounting
+12.Genetics and Evolution
+13.Geology Fundamentals
+14.Global Politics
+15.Introduction to Philosophy
+16.Linear Algebra
+17.Machine Learning Basics
+18.Microbiology
+19.Modern European History
+20.Molecular Biology
+21.Numerical Methods
+22.Organic Chemistry
+23.Physical Geography
+24.Programming Fundamentals
+25.Psychology 101
+26.Quantum Mechanics
+27.Statistics and Probability
+28.World History
+29.World Philosophy

@@ -1,0 +1,31 @@
+Target Element: Civil Engineering Principles
+step 1:
+
+0. Advanced Physics
+1. Anatomy and Physiology
+2. Biology Essentials
+3. Calculus I
+4. Chemistry Basics
+5. Civil Engineering Principles
+6. Computer Networks
+7. Data Structures
+8. Discrete Mathematics
+9. Economics 101
+
+
+step 2:
+
+5. Civil Engineering Principles
+6. Computer Networks
+7. Data Structures
+8. Discrete Mathematics
+9. Economics 101
+
+step 3:
+
+5. Civil Engineering Principles
+6. Computer Networks
+
+Found at location: 5
+
+
