@@ -1,0 +1,9 @@
+CLASS Node:
+    METHOD constructor(value):
+        SET data TO value
+        SET next TO null
+
+INITIALIZE node1 AS Node WITH value 10
+
+PRINT node1.data
+PRINT node1.next
