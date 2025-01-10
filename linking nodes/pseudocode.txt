@@ -1,0 +1,20 @@
+CLASS Node:
+    METHOD constructor(value):
+        SET data TO value
+        SET next TO null
+
+INITIALIZE node1 AS Node WITH value 10
+INITIALIZE node2 AS Node WITH value 20
+INITIALIZE node3 AS Node WITH value 30
+
+LINK node1.next TO node2
+LINK node2.next TO node3
+
+SET head TO node1
+
+SET current TO head
+
+WHILE current IS NOT null:
+    PRINT current.data
+    SET current TO current.next
+
