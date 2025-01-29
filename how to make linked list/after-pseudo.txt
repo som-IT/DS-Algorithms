@@ -1,0 +1,31 @@
+CLASS Node:
+    METHOD constructor(data):
+        SET data TO data
+        SET next TO null
+
+CLASS LinkedList:
+    METHOD constructor:
+        SET head TO null
+
+    METHOD add_to_end(data):
+        CREATE new_node AS Node WITH data
+        IF head IS null:
+            SET head TO new_node
+            RETURN
+        SET current TO head
+        WHILE current.next IS NOT null:
+            SET current TO current.next
+        SET current.next TO new_node
+
+    METHOD traverse:
+        SET current TO head
+        WHILE current IS NOT null:
+            PRINT current.data
+            SET current TO current.next
+
+
+INITIALIZE list AS LinkedList
+CALL list.add_to_end WITH 10
+CALL list.add_to_end WITH 20
+CALL list.add_to_end WITH 30
+CALL list.traverse
